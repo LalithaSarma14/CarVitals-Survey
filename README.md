@@ -8,12 +8,12 @@ This project analyzes a dataset containing key specifications of various car mod
 ## Dataset Features:
 - Brand: Represents the car's brand along with the model name.
 - Model: Specifies the exact model of the vehicle.
-Year: Indicates the manufacturing year, ranging from 2000 to 2024.
-Engine Size: The engine capacity in liters, ranging from 1.0L to 5.0L, increasing in increments of 0.1L.
-Fuel Type: Categorized into Petrol, Diesel, Hybrid, and Electric.
-Transmission: Represents the type of transmission, such as Manual, Automatic, or CVT.
-Mileage: The total distance the car has traveled, measured in miles or kilometers.
-Doors: The number of doors in the vehicle, which can be 1, 2, 3, 4, or 5.
+- Year: Indicates the manufacturing year, ranging from 2000 to 2024.
+- Engine Size: The engine capacity in liters, ranging from 1.0L to 5.0L, increasing in increments of 0.1L.
+- Fuel Type: Categorized into Petrol, Diesel, Hybrid, and Electric.
+- Transmission: Represents the type of transmission, such as Manual, Automatic, or CVT.
+- Mileage: The total distance the car has traveled, measured in miles or kilometers.
+- Doors: The number of doors in the vehicle, which can be 1, 2, 3, 4, or 5.
 Owner Count: Represents the number of previous owners as a whole number.
 Price: The selling price of the car, expressed in US dollars.
 
