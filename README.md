@@ -6,8 +6,8 @@ The CarVitals Survey Dashboard is an interactive Excel-based analytics tool desi
 This project analyzes a dataset containing key specifications of various car models, focusing on brand, model, year, engine size, fuel type, transmission, mileage, doors, owner count, and price. The dataset provides insights into how these factors influence vehicle pricing and ownership trends.
 
 ## Dataset Features:
-Brand: Represents the car's brand along with the model name.
-Model: Specifies the exact model of the vehicle.
+- Brand: Represents the car's brand along with the model name.
+- Model: Specifies the exact model of the vehicle.
 Year: Indicates the manufacturing year, ranging from 2000 to 2024.
 Engine Size: The engine capacity in liters, ranging from 1.0L to 5.0L, increasing in increments of 0.1L.
 Fuel Type: Categorized into Petrol, Diesel, Hybrid, and Electric.
