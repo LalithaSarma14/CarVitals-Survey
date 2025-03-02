@@ -23,9 +23,35 @@ This project analyzes a dataset containing key specifications of various car mod
 - Optimized dataset structure by enforcing uniform formatting for categorical features, renaming columns for clarity, and enhancing schema consistency for seamless data integration and analysis.
 - Executed advanced data cleansing strategies by identifying and removing duplicate car listings and leveraging statistical methods to detect and eliminate outliers in price, engine size, and mileage, improving overall data quality and reliability.
 ## 3.Exploratory Data Analysis (EDA)
-The dataset was analyzed to uncover patterns and relationships between various car attributes and their impact on pricing. Key exploratory questions and findings include:
+The dataset was analyzed to uncover patterns and relationships between various car attributes and their impact on pricing
 - Average Car Price by Brand and Model – Analyzed brand-wise and model-wise price variations to identify premium vs. budget car brands.
+Here the car brands 
+![image alt](https://github.com/LalithaSarma14/CarVitals-Survey/blob/e617766a3578d77f50ff42aa86ffa3423b6569a5/1.png)
+
 - Impact of Engine Size on Price – Examined the correlation between engine size and car price, identifying whether larger engines command higher prices.
+ -- Average Car Price by Brand and Model: Analyzed brand-wise and model-wise price variations to identify premium vs. budget car brands.
+  Overall Average Price: The average price across all brands is $8,852.96.
+Highest Priced Brand: Mercedes ($8,980.09) – Positioned as a premium brand with the highest average price.
+Lowest Priced Brand: Kia ($8,778.28) – Identified as the most budget-friendly brand.
+2. Brand-wise Price Variation
+Premium Brands:
+
+Mercedes ($8,980.09) – Highest-priced due to luxury positioning.
+Audi ($8,923.97) – Slightly lower but remains in the premium category.
+Volkswagen ($8,922.38) – Falls within a similar price range as Audi.
+Mid-Range Brands:
+
+Toyota ($8,895.29) – Positioned slightly above average.
+Ford ($8,852.57) – Closely aligns with the overall average price.
+Honda ($8,865.10) – Offers competitive pricing with models like Civic and Accord.
+Budget-Friendly Brands:
+
+Hyundai ($8,805.20) – More affordable with models like Elantra and Sonata.
+Kia ($8,778.28) – The lowest-priced brand, targeting the budget segment.
+3. Key Observations
+Luxury brands (Mercedes, Audi, Volkswagen) tend to have higher average prices.
+Mid-range brands (Toyota, Honda, Ford) offer a balance of affordability and reliability.
+Budget brands (Kia, Hyundai) have lower prices, making them accessible to cost-conscious buyers.
 - Effect of Mileage on Resale Value – Investigated how higher mileage influences depreciation, revealing trends in price reduction with increased usage.
 - Most Common Fuel Type – Determined the distribution of cars by fuel type (Petrol, Diesel, Hybrid, Electric) to understand market preferences.
 - Fuel Type vs. Price – Explored price differences among fuel types, highlighting whether electric and hybrid vehicles are priced higher than petrol or diesel models.
