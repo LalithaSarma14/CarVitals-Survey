@@ -22,3 +22,11 @@ This project analyzes a dataset containing key specifications of various car mod
 - Performed comprehensive data validation by standardizing brand and model names, unifying mileage units, and applying logical constraints to ensure accuracy in owner count and pricing.
 - Optimized dataset structure by enforcing uniform formatting for categorical features, renaming columns for clarity, and enhancing schema consistency for seamless data integration and analysis.
 - Executed advanced data cleansing strategies by identifying and removing duplicate car listings and leveraging statistical methods to detect and eliminate outliers in price, engine size, and mileage, improving overall data quality and reliability.
+## 3.Exploratory Data Analysis (EDA)
+The dataset was analyzed to uncover patterns and relationships between various car attributes and their impact on pricing. Key exploratory questions and findings include:
+- Average Car Price by Brand and Model – Analyzed brand-wise and model-wise price variations to identify premium vs. budget car brands.
+- Impact of Engine Size on Price – Examined the correlation between engine size and car price, identifying whether larger engines command higher prices.
+- Effect of Mileage on Resale Value – Investigated how higher mileage influences depreciation, revealing trends in price reduction with increased usage.
+- Most Common Fuel Type – Determined the distribution of cars by fuel type (Petrol, Diesel, Hybrid, Electric) to understand market preferences.
+- Fuel Type vs. Price – Explored price differences among fuel types, highlighting whether electric and hybrid vehicles are priced higher than petrol or diesel models.
+- Impact of Number of Doors on Price – Assessed whether 2-door vs. 4-door configurations significantly affect car pricing trends.
