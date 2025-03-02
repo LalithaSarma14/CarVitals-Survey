@@ -14,7 +14,7 @@ This project analyzes a dataset containing key specifications of various car mod
 - Transmission: Represents the type of transmission, such as Manual, Automatic, or CVT.
 - Mileage: The total distance the car has traveled, measured in miles or kilometers.
 - Doors: The number of doors in the vehicle, which can be 1, 2, 3, 4, or 5.
-Owner Count: Represents the number of previous owners as a whole number.
-Price: The selling price of the car, expressed in US dollars.
+- Owner Count: Represents the number of previous owners as a whole number.
+- Price: The selling price of the car, expressed in US dollars.
 
 
