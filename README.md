@@ -29,9 +29,9 @@ Here the car brands
 ![image alt](https://github.com/LalithaSarma14/CarVitals-Survey/blob/e617766a3578d77f50ff42aa86ffa3423b6569a5/1.png)
 
 - Impact of Engine Size on Price – Examined the correlation between engine size and car price, identifying whether larger engines command higher prices.
- -- Average Car Price by Brand and Model: Analyzed brand-wise and model-wise price variations to identify premium vs. budget car brands.
+ 1. Average Car Price by Brand and Model: Analyzed brand-wise and model-wise price variations to identify premium vs. budget car brands.
   Overall Average Price: The average price across all brands is $8,852.96.
-Highest Priced Brand: Mercedes ($8,980.09) – Positioned as a premium brand with the highest average price.
+  Highest Priced Brand: Mercedes ($8,980.09) – Positioned as a premium brand with the highest average price.
 Lowest Priced Brand: Kia ($8,778.28) – Identified as the most budget-friendly brand.
 2. Brand-wise Price Variation
 Premium Brands:
