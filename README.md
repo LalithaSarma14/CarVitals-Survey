@@ -16,5 +16,9 @@ This project analyzes a dataset containing key specifications of various car mod
 - Doors: The number of doors in the vehicle, which can be 1, 2, 3, 4, or 5.
 - Owner Count: Represents the number of previous owners as a whole number.
 - Price: The selling price of the car, expressed in US dollars.
-
-
+## 2. Data Cleaning
+![image alt](https://github.com/LalithaSarma14/CarVitals-Survey/blob/3d2b03ab4f42e5505db2c25fb29f9111b6c1d618/Screenshot%202025-03-02%20125910.png)
+- Implemented robust data preprocessing techniques by imputing missing values using median/mode for mileage, price, and fuel type, while eliminating incomplete records in critical fields such as Year, Engine Size, and Transmission, ensuring data integrity.
+- Performed comprehensive data validation by standardizing brand and model names, unifying mileage units, and applying logical constraints to ensure accuracy in owner count and pricing.
+- Optimized dataset structure by enforcing uniform formatting for categorical features, renaming columns for clarity, and enhancing schema consistency for seamless data integration and analysis.
+- Executed advanced data cleansing strategies by identifying and removing duplicate car listings and leveraging statistical methods to detect and eliminate outliers in price, engine size, and mileage, improving overall data quality and reliability.
