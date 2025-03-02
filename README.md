@@ -2,10 +2,10 @@
 The CarVitals Survey Dashboard is an interactive Excel-based analytics tool designed to visualize and analyze survey responses related to vehicle dashboard indicators and performance metrics. This dashboard helps users gain insights into common on average price of the car, engine size, car type, miles and ownership.
 # Dashboard
 ![image alt](https://github.com/LalithaSarma14/CarVitals-Survey/blob/87e10f65d6dc9885110ef6e02eaa372dbd5a1a01/car_dashboard_overall.png)
-# 1. Data Overview
+## 1. Data Overview
 This project analyzes a dataset containing key specifications of various car models, focusing on brand, model, year, engine size, fuel type, transmission, mileage, doors, owner count, and price. The dataset provides insights into how these factors influence vehicle pricing and ownership trends.
 
-## Dataset Features:
+### Dataset Features:
 - Brand: Represents the car's brand along with the model name.
 - Model: Specifies the exact model of the vehicle.
 - Year: Indicates the manufacturing year, ranging from 2000 to 2024.
