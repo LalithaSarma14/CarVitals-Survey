@@ -46,7 +46,7 @@ Mid-Range Brands:
 Budget-Friendly Brands:
 - Hyundai ($8,805.20) – More affordable with models like Elantra and Sonata.
 - Kia ($8,778.28) – The lowest-priced brand, targeting the budget segment.
-3. Key Observations
+3. Key Observations:
 - Luxury brands (Mercedes, Audi, Volkswagen) tend to have higher average prices.
 - Mid-range brands (Toyota, Honda, Ford) offer a balance of affordability and reliability.
 - Budget brands (Kia, Hyundai) have lower prices, making them accessible to cost-conscious buyers.
